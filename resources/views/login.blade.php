@@ -21,11 +21,11 @@
                         <span class="absolute inset-x-0 top-1/2 h-0.5 -translate-y-1/2 bg-white rounded"></span>
                     </div>
                 </div> --}}
-                <img src="{{ asset('icon.png') }}" alt="Logo Croix-Rouge"
+                <img src="{{ asset('icon.png') }}" alt="Logo "
                     class="w-9 h-9 rounded-full bg-white border-red-600 border-2 flex items-center justify-center">
                 <div>
                     <p class="text-xs uppercase tracking-wide text-gray-500">Espace sécurisé</p>
-                    <p class="font-semibold text-gray-900 text-sm">Croix-Rouge</p>
+                    <p class="font-semibold text-gray-900 text-sm">XXXXXX</p>
 
                 </div>
             </div>
